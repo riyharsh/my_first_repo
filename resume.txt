@@ -7,6 +7,11 @@ SUMMARY:
 •	Implementing and providing support for new software solutions, and development and assessment of existing infrastructure. Strong focus on design and user capabilities.
 •	High level involvement in the advancement of the industry and adherence to best practice.
 
+EMPLOYMENT PROFILE:
+                
+•	Working as Senior Information Security Analyst in Bank of NewYork mellon from July 2019 to December 2021.
+
+
 BANK OF NEWYORK MELLON – BNY MELLON
 Exxon The Bank of New York Mellon Corporation plays an integral role in the infrastructure of the capital markets, servicing securities in more than 100 markets worldwide. Its primary businesses include securities servicing and global payment services, private client services and asset management, corporate banking, global market services, and retail banking.
 Technologies	: Active Directory,citrix server,itsm express and Remedy,LDAP
