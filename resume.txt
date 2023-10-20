@@ -16,4 +16,4 @@ BRITISH TELECOM PROJECT:
 BT Group plc is a holding company which owns British Telecommunications plc, a British multinational telecommunications services company with head offices in London, United Kingdom. It has operations in around 180 countries. 
 Technologies	: Windows 2007,2009,2010 Enterprise,citrix,Outlook.
 
-fake experience
+
