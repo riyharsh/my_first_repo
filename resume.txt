@@ -5,15 +5,13 @@ SUMMARY:
 
 BANK OF NEWYORK MELLON – BNY MELLON
 Exxon The Bank of New York Mellon Corporation plays an integral role in the infrastructure of the capital markets, servicing securities in more than 100 markets worldwide. Its primary businesses include securities servicing and global payment services, private client services and asset management, corporate banking, global market services, and retail banking.
-Technologies	: Active Directory,citrix server,itsm express and Remedy,LDAP,
+Technologies	: Active Directory,citrix server,itsm express and Remedy,LDAP
 
 HCL  - EXXON MOBIL PROJECT
 Exxon mobil corporation is an American multinational oil and natural gas corporation. Headquartered in Irving,Texas. The world‘s seventh largest company by revenue,Exxonmobil is also the seventh largest publicly traded company by market capitalization.
 Technologies	: Active Directory, Windows 2007,2009,2010 Enterprise, citrix server,itsm express and Remedy,Emurald(Exxon mobil tool). Excel, Outlook, Power Point, SharePoint,SAP 
 
 
-BRITISH TELECOM PROJECT:
-BT Group plc is a holding company which owns British Telecommunications plc, a British multinational telecommunications services company with head offices in London, United Kingdom. It has operations in around 180 countries. 
-Technologies	: Windows 2007,2009,2010 Enterprise,citrix,Outlook.
+
 
 
